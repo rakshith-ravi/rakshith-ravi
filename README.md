@@ -8,7 +8,9 @@ I like to take ownership of my work and take immense pride in going out of the w
 - ✉️  You can contact me at [rakshith.ravi@gmx.com](mailto:rakshith.ravi@gmx.com)
 - 🚀  I'm currently working on [Patr](http://patr.cloud)
 - 🤝  I'm open to collaborating on Rust based projects
-- ⚡  I'm a huge fan of Batman### Skills
+- ⚡  I'm a huge fan of Batman
+
+### Skills
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" >
