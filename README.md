@@ -11,11 +11,7 @@ I like to take ownership of my work and take immense pride in going out of the w
 - ⚡  I'm a huge fan of Batman### Skills
 
 <p align="left">
-  <a
-    href="https://docs.microsoft.com/en-us/dotnet/csharp/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" >
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
       width="36"
@@ -39,11 +35,7 @@ I like to take ownership of my work and take immense pride in going out of the w
       alt="Go" />
   </a>
 
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-    >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       width="36"
@@ -163,10 +155,7 @@ I like to take ownership of my work and take immense pride in going out of the w
       alt="Firebase" />
   </a>
   
-  <a
-    href="https://dotnet.microsoft.com/en-us/"
-    target="_blank"
-    rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
       width="36"
@@ -242,10 +231,7 @@ I like to take ownership of my work and take immense pride in going out of the w
 ### Socials
 
 <p align="left">
-  <a
-    href="https://discord.com/users/blackjackhack"
-    target="_blank"
-    rel="noreferrer" >
+  <a href="https://discord.com/users/blackjackhack" target="_blank" rel="noreferrer" >
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source
@@ -257,11 +243,7 @@ I like to take ownership of my work and take immense pride in going out of the w
         height="32" />
     </picture>
   </a>
-
-  <a
-    href="https://www.github.com/rakshith-ravi"
-    target="_blank"
-    rel="noreferrer" >
+  <a href="https://www.github.com/rakshith-ravi" target="_blank" rel="noreferrer" >
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -275,11 +257,7 @@ I like to take ownership of my work and take immense pride in going out of the w
         height="32" />
     </picture>
   </a>
-
-  <a
-    href="https://www.linkedin.com/in/rakshith-ravi"
-    target="_blank"
-    rel="noreferrer" >
+  <a href="https://www.linkedin.com/in/rakshith-ravi" target="_blank" rel="noreferrer" >
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -293,10 +271,7 @@ I like to take ownership of my work and take immense pride in going out of the w
         height="32" />
     </picture>
   </a>
-  <a
-    href="http://www.medium.com/@rakshith-ravi"
-    target="_blank"
-    rel="noreferrer" >
+  <a href="http://www.medium.com/@rakshith-ravi" target="_blank" rel="noreferrer" >
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -310,11 +285,7 @@ I like to take ownership of my work and take immense pride in going out of the w
         height="32" />
     </picture>
   </a>
-
-  <a
-    href="https://www.stackoverflow.com/users/3393442/rakshith-ravi"
-    target="_blank"
-    rel="noreferrer" >
+  <a href="https://www.stackoverflow.com/users/3393442/rakshith-ravi" target="_blank" rel="noreferrer" >
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source
@@ -326,7 +297,6 @@ I like to take ownership of my work and take immense pride in going out of the w
         height="32" />
     </picture>
   </a>
-
   <a href="https://www.x.com/_rakshith_ravi_" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -352,7 +322,6 @@ I like to take ownership of my work and take immense pride in going out of the w
     src="https://github-readme-stats.vercel.app/api?username=rakshith-ravi&show_icons=true&hide=stars,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=312e81&hide_border=true&show_icons=true"
     alt="rakshith-ravi's GitHub stats" />
 </a>
-
 <a href="http://www.github.com/rakshith-ravi">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith-ravi&stroke=ffffff&background=312e81&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
